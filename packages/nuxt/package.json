@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@nuxt/devalue": "^2.0.2",
-    "@nuxt/devtools": "^1.4.2",
+    "@nuxt/devtools": "^2.5.0",
     "@nuxt/kit": "workspace:*",
     "@nuxt/schema": "workspace:*",
     "@nuxt/telemetry": "^2.6.0",
@@ -71,7 +71,7 @@
     "@unhead/vue": "^1.11.5",
     "@vue/shared": "^3.5.5",
     "acorn": "8.12.1",
-    "c12": "^2.0.0-beta.2",
+    "c12": "^3.0.0",
     "chokidar": "^3.6.0",
     "compatx": "^0.1.8",
     "consola": "^3.2.3",
